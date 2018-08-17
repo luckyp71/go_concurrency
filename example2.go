@@ -5,7 +5,7 @@ import (
 )
 
 /*
-	Example concurrency in go using channel
+	Example concurrency in go using unbuffered channel
 */
 
 func main() {
